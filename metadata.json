@@ -1,0 +1,6 @@
+{
+  "name": "Kềm Bến Thành",
+  "description": "Website thương mại điện tử Kềm Bến Thành cao cấp chuyên nghiệp, tích hợp chatbot tư vấn AI thông minh và hệ thống quản lý đơn hàng chuẩn xác.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
